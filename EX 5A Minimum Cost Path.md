@@ -18,7 +18,7 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 R = int(input())
 C = int(input())
 def minCost(cost, m, n):
