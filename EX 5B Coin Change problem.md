@@ -15,7 +15,7 @@ To compute the fewest number of coins that we need to make up the amount given.
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 class Solution(object):
     def coinChange(self, coins, amount):
         if amount == 0 :
