@@ -16,7 +16,7 @@ To write a python program for finding the minimum number of jumps needed to reac
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def minJumps(arr, n):
     jumps = [0 for i in range(n)]
     if (n == 0) or (arr[0] == 0):
